@@ -1,1 +1,1 @@
-Project related to data from machinery applied in mining
+Projects related to data from machinery applied in mining
