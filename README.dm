@@ -1,7 +1,3 @@
-Projects related to data from machinery applied in mining
-
-- Truck Production
-
 Title: Measuring the productivity and efficiency of a mining truck with Python 
 Author: Ricardo Manriquez  <Ri.manriquez@uc.cl>
 Date:   10-11-2022 22:57:55  
