@@ -11,6 +11,5 @@ which saves the user significant time while generating reports. The measuring un
 
 
 2. Time series forecasting (Fuel consumption) Tensorflow
-
 Predicting fuel consumption with Tensorflow forecasting
 this can be really usable for a temperature or pressure trend of a component of a mechanical system
