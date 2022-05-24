@@ -1,4 +1,4 @@
-Author: Ricardo Manriquez  <Ri.manriquez@uc.cl>
+Author: Ricardo Manriquez  <Ri.manriquez@uc.cl> ricardo.manriquez.lizana@gmail.com
 Projects related to data from machinery applied in mining
 
 
@@ -12,3 +12,8 @@ Date:   11-03-2022 01:27:55
 2. Time series forecasting (Fuel consumption) Tensorflow
 Predicting fuel consumption with Tensorflow forecasting
 this can be really usable for a temperature or pressure trend of a component of a mechanical system
+
+
+Date: 05/24/2022
+3. nearest store with python
+finding the nearest store for a fleet reporting trough gps 
