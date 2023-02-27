@@ -17,3 +17,8 @@ this can be really usable for a temperature or pressure trend of a component of 
 Date: 05/24/2022
 3. nearest store with python
 finding the nearest store for a fleet reporting trough gps 
+
+
+Date: 02/26/2023
+4. Adresses to coordinates
+geting coordinates from adresses 
