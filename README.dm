@@ -18,7 +18,13 @@ Date: 05/24/2022
 3. nearest store with python
 finding the nearest store for a fleet reporting trough gps 
 
-
 Date: 02/26/2023
 4. Adresses to coordinates
+geting coordinates from adresses 
+
+Date: 08/21/2023
+5. Maping greater production in Folium with python
+
+Date: 08/21/2023
+6. Adresses to coordinates with Google API 
 geting coordinates from adresses 
